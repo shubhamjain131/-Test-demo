@@ -1,2 +1,3 @@
 Hi this is file for testing purpose
 Test1 file contain some important info about git bash
+Adding new line in rebase branch
